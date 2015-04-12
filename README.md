@@ -6,3 +6,4 @@ Curated list about design links
  3. [What is The Next Big Thing in Web Design](http://ewebdesign.com/next-big-thing-web-design/)
  4. [6 ways to save time in rapid prototyping](http://blog.invisionapp.com/the-periodic-table-of-design/)
  5. [The periodic table of design](http://blog.invisionapp.com/the-periodic-table-of-design)
+ 6. [7 Best Practices for Designing a Mobile User Experience](http://www.sitepoint.com/7-best-practices-designing-mobile-user-experience/)
