@@ -10,6 +10,10 @@ Curated list about design links
  7. [Always choose prototypes over mockups](http://blog.webflow.com/always-choose-prototypes-over-mockups)
  8. [THE DESIGN SPRINT](http://www.gv.com/sprint/)
 
+##UX Design
+
+ 1. [UXMovement](http://uxmovement.com)
+
 ##Books
 [Fake it make it - How to Make an App Prototype in 3 Hours](http://www.slideshare.net/akhella/fake-it-make-it-how-to-make-an-app-prototype-in-3-hours)
  
