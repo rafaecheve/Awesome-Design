@@ -9,6 +9,7 @@ Curated list about design links
  6. [7 Best Practices for Designing a Mobile User Experience](http://www.sitepoint.com/7-best-practices-designing-mobile-user-experience/)
  7. [Always choose prototypes over mockups](http://blog.webflow.com/always-choose-prototypes-over-mockups)
  8. [THE DESIGN SPRINT](http://www.gv.com/sprint/)
+ 9. [6 design trends taking over the Web](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/)
 
 ##UX Design
 
